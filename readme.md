@@ -23,11 +23,7 @@ Wykres rysowany jest za pomocą biblioteki canvasjs w wersji trial.
 
 ## Konfiguracja bazy danych 
     
-   
-    
-    
-        what  | variable
-------------- | -------------
-      server  | private  $server = "mysql:host=localhost; dbname=bmiDb";
-    username  |  private  $userDb = "registerUser";
-    password  |  private  $passDb = "registerPwd1
+ 
+* server    | private  $server = "mysql:host=localhost; dbname=bmiDb";
+* username  |  private  $userDb = "registerUser";
+* password  |  private  $passDb = "registerPwd1
