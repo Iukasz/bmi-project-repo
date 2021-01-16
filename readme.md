@@ -20,3 +20,14 @@ użytkownika. Historia jest zapisywana w bazie danych MySQL.
 Program generuje także wykres z danymi, na którym znajduje się nasz obliczony indeks BMI. Wykres
 informuje po porównaniu danych, w jakim przedziale zdrowotnym znajduje się jego indeks BMI.
 Wykres rysowany jest za pomocą biblioteki canvasjs w wersji trial.
+
+## Konfiguracja bazy danych 
+    
+   
+    
+    
+        what  | variable
+------------- | -------------
+      server  | private  $server = "mysql:host=localhost; dbname=bmiDb";
+    username  |  private  $userDb = "registerUser";
+    password  |  private  $passDb = "registerPwd1
