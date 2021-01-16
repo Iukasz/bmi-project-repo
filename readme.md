@@ -1,5 +1,4 @@
-## Opis działania danego programu - dane wejściowe i
-wyjściowe, tryb interfejsu użytkownika.
+## Opis działania danego programu - dane wejściowe i wyjściowe, tryb interfejsu użytkownika.
 Program został napisany w języku php z wykorzystaniem elementów obiektowości. Program
 wykorzystuje interfejs graficzny HTML5 + css, działający w oknie większości najpopularniejszych
 przeglądarek internetowych.
